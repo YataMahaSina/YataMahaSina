@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://tiktok.com/@roboland16](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![http://youtube.com/@robotechindonesia9026](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![https://www.tiktok.com/@roboland16](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![http://youtube.com/@robotechindonesia9026](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ##### My Github Stats
 ![Yata's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrProjectArt&show_icons=true&theme=holi)
