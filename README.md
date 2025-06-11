@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 ![Yata's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrProjectArt&show_icons=true&theme=holi)
+
+<h2 align="center">Play Game with Me, Let's Go</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/MrProjectArt/MrProjectArt/output/snake.svg" alt="Snake animation" />
+
+###
