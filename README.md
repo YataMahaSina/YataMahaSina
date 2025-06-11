@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ##### My Github Stats
 ![Yata's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrProjectArt&show_icons=true&theme=holi)
 
-<h2 align="center">🎯 Play game with Me! Lets Go 🎯</h2>
+<h3 align="center">🎯 Play game with Me! Lets Go 🎯</h3>
 
 ###
 
