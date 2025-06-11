@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Header](img/github-header-image.png)
 
-- 🔭 I’m currently working on @RoboElectronics
 - 🌱 I’m currently learning Flutter App
+- 💬 Ask me about Electronics Design PCB or IoT Project to ![https://www.tiktok.com/@roboland16](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ##### Skills
 
