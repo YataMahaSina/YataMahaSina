@@ -1,4 +1,4 @@
-## Hi there 👋
+#### Hello World! I'm Yata Maha Sina 👋
 
 <!--
 **YataMahaSina/YataMahaSina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](img/github-header-image.png)
+
+- 🔭 I’m currently working on @RoboElectronics
+- 🌱 I’m currently learning Flutter App
+
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php,firebase,mysql&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=arduino,matlab,python,vscode,sublime&perline=3)](https://skillicons.dev)
+
+
+##### Connect with me
+![https://www.tiktok.com/@roboland16](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![http://youtube.com/@robotechindonesia9026](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+##### My Github Stats
+![Yata's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrProjectArt&show_icons=true&theme=holi)
