@@ -1,4 +1,4 @@
-#### Hello World! I'm Yata Maha Sina 👋
+<!-- #### Hello World! I'm Yata Maha Sina 👋 -->
 
 <!--
 **YataMahaSina/YataMahaSina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
